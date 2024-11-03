@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1728866367,
+	"Version": 1730667561,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -414,14 +414,19 @@
 			],
 			"ItemWhitelist": [
 				0,
-				10
+				10,
+				5,
+				14
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						2,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
@@ -430,7 +435,10 @@
 					]
 				},
 				"Toolbox": {
-					"Addons": []
+					"Addons": [
+						0,
+						2
+					]
 				},
 				"Key": {
 					"Addons": []
