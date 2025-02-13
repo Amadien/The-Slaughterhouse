@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1739443102,
+	"Version": 1739443602,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -484,7 +484,7 @@
 		{
 			"Name": "The Nurse",
 			"KillerNotes": "Annotated blueprint x1\nBloodied blueprint x1\nVigo's shroud x2",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"4"
 			],
